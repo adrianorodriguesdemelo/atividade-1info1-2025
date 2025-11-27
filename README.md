@@ -20,4 +20,4 @@ Em seguida aplique essas funções nos seguintes casos: f(−3) e g(5).
 
 Considere a seguinte situação: a população de um determinado tipo de bactéria triplica de tamanho a cada 2 dias. Construa uma função que calcule a população de uma colônia inicial mente com n bactérias, por um perı́odo de t dias.
 
-Em seguida, aplique sua função para calcular a quantidade de bactérias após decorrido o perı́odo de um mês, de um colônia inicialmente com 30 bactérias.
+Em seguida, aplique sua função para calcular a quantidade de bactérias após decorrido o perı́odo de um mês, para uma colônia inicialmente com 30 bactérias.
